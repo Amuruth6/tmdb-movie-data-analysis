@@ -29,11 +29,14 @@ Fix: Used Python’s ast.literal_eval to safely convert strings into Python list
 
 📊 Key Insights
 
-Popularity vs Revenue → Higher popularity often leads to higher revenue, but not always. Some movies gained popularity but underperformed financially.
+Q1: Do movies with high popularity achive high revenvue?
+More popular movies recieve way more revenue than the less popular movies.
 
-Most Filmed Genres → Drama, Comedy, and Action were the most common genres in the dataset.
+Q2: What are the most filmed genres in this whole dataset?
+Drama, Comedy and Thriller are the most three filmed genres in total of 5000 movies in our dataset, and that Drama genre is filmed 22.6% of the times on our dataset.
 
-Budget vs Revenue Correlation → Strong positive correlation: higher budgets generally result in higher revenues.
+Q3: Is there a correlation between a movie budget and its revenue?
+Strong positive correlation: higher budgets generally result in higher revenues.
 
 🚀 Future Improvements
 
