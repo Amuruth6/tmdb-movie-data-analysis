@@ -42,5 +42,9 @@ Add year-wise analysis of revenue and popularity trends.
 Build predictive models (regression/ML) to estimate movie revenue.
 
 Create interactive dashboards using Plotly or Power BI.
+
+## 📝 License
+This project is licensed under the MIT License.  
+Dataset source: [TMDb](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) (for educational purposes only).
    cd tmdb-movie-data-analysis
 
