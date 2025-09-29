@@ -3,13 +3,8 @@
 This project is a **data analysis of 5,000 movies sourced from TMDb (The Movie Database)**.  
 Using **Python, pandas, matplotlib, and seaborn**, the project explores how **popularity, budget, and genres** influence movie revenues.  
 
-The analysis focuses on three key questions:  
-1. Do popular movies generate higher revenue?  
-2. What are the most common movie genres?  
-3. Is there a correlation between budget and revenue?  
-
 ---
-## 📌 Research Questions
+## 📌 The analysis focuses on three key question:
 - Do movies with **high popularity** achieve **high revenue**?  
 - What are the most **filmed genres** in the dataset?  
 - Is there a **correlation between budget and revenue**?  
